@@ -2,6 +2,8 @@
 
 <h2>Created for practising OOP for the first time</h2>
 
+![alt text](https://thumbs.dreamstime.com/b/dumb-seal-print-distress-texture-red-vector-rubber-title-dust-text-placed-double-parallel-lines-scratched-135886829.jpg)
+
 <h3>How to play?</h3>
 
 <ul>
