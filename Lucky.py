@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import random
 import time
+
+
 class Warrior:
     players = 0
     def __init__(self, name="Player "):
