@@ -17,7 +17,6 @@
 
 <ul>
 <li>"Lucky.py" is just a Python script, download and run..((Require python))</li>
-<li>"Lucky-compiled.pyc" if you didn't install python</li>
 </ul>
 
 <h5>I was going to develop a colorful version, but I realized that the topic was taking much larger than it's real size.</h5>
